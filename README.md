@@ -1,5 +1,3 @@
-## [droidPHP]
-
 # Privacy Policy – DroidPHP
 
 **Last updated:** [30/01/2026]
@@ -80,3 +78,4 @@ Users are encouraged to review this policy periodically.
 If you have any questions or concerns about this Privacy Policy, you can contact us at:
 
 **Email:** [lococoi@proton.me](mailto:lococoi@proton.me)
+
