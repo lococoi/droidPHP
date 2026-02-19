@@ -1,82 +1,157 @@
 # Privacy Policy – DroidPHP
 
-**Last updated:** 30/01/2026
+**Last Updated: January 30, 2026**
 
-## 1. Overview
+DroidPHP (“App”, “we”, “us”, “our”) respects your privacy and is committed to transparency regarding how information is handled.
 
-DroidPHP (the “App”) is developed and maintained by our organization (“we”, “us”, “our”).
-We value user privacy and are committed to transparency.
+This Privacy Policy explains what data is collected, how it is used, and your rights regarding such information.
 
-**We do not collect, store, or process any personal data directly.**
-All core functionality of the App runs locally on the user’s device.
+---
 
-## 2. Data Collection by the App
+## 1. Core Privacy Principle
 
-The App itself **does not collect**:
+DroidPHP is designed to operate entirely on the user’s device.
 
-* Personal information (such as name, email address, phone number, or address)
-* Location data
-* Usage analytics or tracking data
+**We do not collect, store, transmit, or process personal data on our own servers.**
+
+The App does not require account registration and does not operate a backend infrastructure that stores user information.
+
+---
+
+## 2. Information Collected by DroidPHP
+
+The App itself does not collect or store:
+
+* Name, email address, phone number, or postal address
+* Location data (precise or approximate)
+* Contacts, files, or device storage contents
+* Usage analytics or behavioral tracking
+* Crash logs tied to identifiable individuals
 * User-generated content
-* Files, code, or data processed within the App
+* Financial or payment information
 
-We do not operate backend servers or databases that store user information.
+All functionality runs locally on the device.
+
+---
 
 ## 3. Third-Party Services
 
-Although we do not collect data directly, the App may include third-party services that operate independently and may collect information according to their own privacy policies.
+While DroidPHP does not collect personal data directly, certain third-party services integrated into the App may independently collect information under their own policies.
 
-### 3.1 Google AdMob
+We do not control how these third parties collect or process data.
 
-The App may display ads provided by **Google AdMob**.
+---
 
-Google AdMob may collect certain data, such as:
+### 3.1 Google AdMob (Advertising)
 
-* Advertising identifiers
+The App may display advertisements through Google AdMob.
+
+Google AdMob may collect and process:
+
+* Advertising identifiers (such as Google Advertising ID)
 * Device information
-* Ad interaction data
+* IP address
+* Interaction data related to ads
+* Diagnostic data
 
-This data collection is **controlled entirely by Google** and is not managed by us.
+This processing is performed solely by Google and subject to Google’s Privacy Policy:
 
-Google Privacy Policy:
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 3.2 Google Play Billing
+We do not access, store, or control advertising data collected by Google.
 
-The App uses **Google Play Billing** for in-app purchases.
+Users may manage ad personalization through their Google account or device settings.
 
-Google may collect information related to payments and transactions.
-We **do not have access to payment details or financial information**.
+---
 
-## 4. Data Sharing
+### 3.2 Google Play Billing (In-App Purchases)
 
-We do not share, sell, or transfer user data.
-Any data processed by Google services is handled solely under Google’s policies.
+The App uses Google Play Billing to process purchases and subscriptions.
 
-## 5. Children’s Privacy
+All payment processing is handled by Google Play.
 
-The App **does not have a minimum age requirement** and is not specifically targeted at children.
+We do not:
+
+* Collect payment card information
+* Store transaction credentials
+* Access financial account details
+
+Transaction data is processed in accordance with Google’s policies.
+
+---
+
+## 4. Data Sharing and Sale of Data
+
+We do not sell, rent, or share personal data because we do not collect personal data directly.
+
+Any information processed by Google services is handled exclusively under Google’s privacy framework.
+
+---
+
+## 5. Children’s Privacy (COPPA Disclosure)
+
+The App is not specifically directed toward children under 13 years of age.
 
 We do not knowingly collect personal information from children.
-Since the App does not collect personal data, no special data handling is performed for minors.
 
-## 6. Data Security
+Because the App does not collect personal data directly, no additional data handling measures are required for minors.
 
-Because we do not collect or store personal data, we do not maintain user databases or servers containing personal information.
+However, third-party services (such as advertising providers) may collect information as described in their own policies.
 
-Device security and operating system protections are handled by the Android platform and the user.
+Parents and guardians are encouraged to review device-level privacy controls.
 
-## 7. Changes to This Privacy Policy
+---
 
-We may update this Privacy Policy from time to time.
-Any changes will be reflected by updating the “Last updated” date.
+## 6. Data Retention
 
-Users are encouraged to review this policy periodically.
+Since we do not collect or store personal data, we do not retain user information on external servers.
 
-## 8. Contact Information
+Any data generated during use remains locally on the device unless managed by third-party services as described above.
 
-If you have any questions or concerns about this Privacy Policy, you can contact us at:
+---
 
-**Email:** [lococoi@proton.me](mailto:lococoi@proton.me)
+## 7. Security
 
+Because we do not maintain servers or centralized databases, we do not store personal data externally.
 
+Device security is governed by:
+
+* Android operating system protections
+* Google Play security standards
+* User-configured device security settings
+
+---
+
+## 8. International Users
+
+The App is distributed globally via Google Play.
+
+Any third-party data processing (such as by Google) may involve international data transfers in accordance with their privacy policies and applicable laws.
+
+---
+
+## 9. Your Privacy Rights
+
+Depending on your jurisdiction (including the United States, California, or the European Union), you may have rights related to personal data access, correction, deletion, or objection.
+
+Because we do not collect personal data directly, we are unable to access or delete data processed independently by third-party services.
+
+For requests related to advertising or billing data, users must contact Google directly.
+
+---
+
+## 10. Changes to This Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time.
+
+Changes will be reflected by updating the “Last Updated” date above.
+
+Continued use of the App after changes constitutes acceptance of the revised policy.
+
+---
+
+## 11. Contact Information
+
+If you have questions regarding this Privacy Policy, you may contact:
+
+Email: [lococoi@proton.me](mailto:lococoi@proton.me)
